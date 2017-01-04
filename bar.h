@@ -1,2 +1,2 @@
 
-extern int bar(void);
+extern int bar(int x);

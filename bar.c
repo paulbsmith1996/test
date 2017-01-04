@@ -1,5 +1,5 @@
 
-int bar(void) {
-  return 6;
+int bar(int x) {
+  return 2 * x;
 }
 
