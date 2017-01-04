@@ -1,1 +1,5 @@
-hello im john
+
+int bar(void) {
+  return 5;
+}
+
