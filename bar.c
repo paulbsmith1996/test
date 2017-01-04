@@ -1,5 +1,5 @@
 
 int bar(void) {
-  return 5;
+  return 6;
 }
 
