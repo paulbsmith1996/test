@@ -1,5 +1,5 @@
 
 int bar(int x) {
-  return 4 * x;
+  return 3 * x;
 }
 
